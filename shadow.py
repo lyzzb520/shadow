@@ -15,7 +15,7 @@ if not os.path.exists(dbDir):
 
 @app.route('/')
 def hello_world():
-    return 'Hello World!'
+    return 'Hello Waeweorld!'
 
 
 if __name__ == '__main__':
