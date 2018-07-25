@@ -1,4 +1,3 @@
 venv/
 .idea*
 appConfig/__pycache__/*
-ddd/
